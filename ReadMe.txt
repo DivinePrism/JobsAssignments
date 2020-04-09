@@ -1,7 +1,7 @@
 To run the program in elvis:
 
 -compile the program
-javac Drive.java
+javac Driver.java
 
 -run the program
 java Driver
